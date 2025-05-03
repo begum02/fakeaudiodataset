@@ -1,0 +1,9 @@
+# Allow audio files
+!audio/
+!audio/*.mp3
+!audio/*.wav
+
+# Ignore other files
+*.pyc
+__pycache__/
+.vscode/
